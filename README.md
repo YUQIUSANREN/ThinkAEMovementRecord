@@ -1,0 +1,2 @@
+# ThinkAEMovementRecord
+尝试制作AE的动作记录和使用插件（最好是能实现和PS的动作功能一样的操作）
